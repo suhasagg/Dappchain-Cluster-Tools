@@ -1,10 +1,6 @@
 # clusterkit
 Maintenance tools for  DAppChain clusters
 
-```
-Description 
-```
-
 1)
 ## Shrink app.db (by cloning latest IAVL store version to a new DB)
 
