@@ -1,0 +1,3 @@
+# Database backend: leveldb | memdb | cleveldb
+db_backend = "leveldb"
+
